@@ -1,86 +1,66 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Michael Heninger's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Michael Heninger
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="mailto:michael.j.heninger@gmail.com">michael.j.heninger@gmail.com</a>
+| <a href="github.com/cougarEngineer">Github</a>
+| <a href="linkedin.com/in/michaeljheninger/">LinkedIn</a>
+| (503) 446-2919
 </div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`December 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
+Bachelor of Science in Computer Engineering
 
-- 4.0 Major GPA
+- GPA: 4.0
+- Relevant coursework includes: Electronic Devices and Circuits, Discrete Mathematics, Digital Systems Design, Advanced Embedded Systems, Computer Architecture, Technical Communication, Software Design and Development, Microprocessor Based System Design, Operating Systems, VLSI System Design.
+- Lead an Android app-development project involving manipulation and storage of complex JSON objects
+- Implemented the VGA standard, then designed and created a dynamic test pattern on an FPGA as a final project
+- Helped develop a computer-vision based robot that tracked a cat and sprayed it with water if it got too close
 
+## Work Experience
 
-## Related Experience
+`May 2021 - July 2021`
+__Systems Engineering Intern__,  Northrop Grumman
 
-### Internships
+- Researched integrations of DevSecOps tools in order to potentially save 90% upfront cost by switching to another feature-compatible tool
+- Scripted the automated creation of a massive file-share, with hundreds of directories and user roles
+- Provisioned and prepared a multi-million dollar sandbox network with dev servers for deployment
+- Requisitioned for and supported a full-stack development environment used by thousands of developers
+- Maintained DOD Secret Security Clearance
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+`September 2020 – April 2021`
+__TA: Chemistry Lab and Electronic Circuits__, BYU-I
+- Supervised students in performing chemistry labs using standard lab equipment and procedures
+- Instructed on various electric circuit principles, including circuit analysis and transistor-level design
 
 
-## Service and Work History
+`June 2014 - August 2015`
+__Software Engineering Intern__,  Intel Corporation
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Implemented UI-based regression testing for multi-corporation ticketing application using Visual Studio Coded UI Tests, including setup of test data via SQL scripts on MS SQL Server
 
+## Technical Skills
 
-`2023-2025`
-__Service Missionary__, South Africa
+### Languages
+- Significant experience with: 	C, C++, Java, Python
+- Some experience with:		Verilog, ARM & x86 Assembly, SQL, Powershell
+- Dabbled in:			Visual Basic, C#, MATLAB, Wolfram Mathematica
 
+### Environments
+Microsoft Office, Windows, Linux, Android, and FreeRTOS
 
+## Other Experience
+__Eagle Scout__
+- Organized and lead a 150+ man-hour service project making and installing benches for local state park, including managing fundraising, sourcing supplies, schedule & transport coordination, and division of labor
+
+__Volunteer Elementary School Robotics Instructor__
+- Taught underprivileged schoolchildren the basics of programming using Scratch and Sphero robots
 
 <!-- ### Footer
 
