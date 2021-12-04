@@ -47,14 +47,12 @@ __Software Engineering Intern__,  Intel Corporation
 
 ## Technical Skills
 
-### Languages
-- Significant experience with: 	
+### Significant experience with: 	
 C, C++, Java, Python
-- Some experience with:		
+### Some experience with:		
 Verilog, ARM & x86 Assembly, SQL, Powershell
-- Dabbled in:			
+### Dabbled in:			
 Visual Basic, C#, MATLAB, Wolfram Mathematica
-
 ### Environments
 Microsoft Office, Windows, Linux, Android, and FreeRTOS
 
